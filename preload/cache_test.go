@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/foxcpp/go-mockdns"
-	"github.com/foxcpp/go-mtasts"
+	"github.com/hadooboo/go-mtasts/v2"
 )
 
 func mockDownloadPolicy(policy *mtasts.Policy, err error) func(string) (*mtasts.Policy, error) {

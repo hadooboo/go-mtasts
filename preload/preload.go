@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/foxcpp/go-mtasts"
+	"github.com/hadooboo/go-mtasts/v2"
 	"golang.org/x/net/idna"
 )
 

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/foxcpp/go-mtasts"
+	"github.com/hadooboo/go-mtasts/v2"
 )
 
 // From https://github.com/EFForg/starttls-everywhere/blob/master/RULES.md

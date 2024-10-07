@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/foxcpp/go-mtasts"
+	"github.com/hadooboo/go-mtasts/v2"
 )
 
 func ExampleCache_Get() {

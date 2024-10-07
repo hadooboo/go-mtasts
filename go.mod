@@ -1,4 +1,4 @@
-module github.com/foxcpp/go-mtasts
+module github.com/hadooboo/go-mtasts/v2
 
 require (
 	github.com/foxcpp/go-mockdns v0.0.0-20191216195825-5eabd8dbfe1f
